@@ -5,5 +5,5 @@ The project comprises the Front-end part of a blogging website which enables the
 - Write and publish a blog
 - Read already published blogs
 - Like and comment on a blog post
-- Delete personal blog enties
+- Delete personal blog enties<br>
 The website is build using HTML5, CSS3 and JS as a MPA.
